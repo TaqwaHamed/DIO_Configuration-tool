@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<root>
+	<PIN0>
+		<Pin_Direction>OUTPUT</Pin_Direction>
+		<Pin_State>HIGH</Pin_State>
+	</PIN0>
+	<PIN1>
+		<Pin_Direction>OUTPUT</Pin_Direction>
+		<Pin_State>LOW</Pin_State>
+	</PIN1>
+	<PIN2>
+		<Pin_Direction>OUTPUT</Pin_Direction>
+		<Pin_State>HIGH</Pin_State>
+	</PIN2>
+	<PIN3>
+		<Pin_Direction>OUTPUT</Pin_Direction>
+		<Pin_State>LOW</Pin_State>
+	</PIN3>
+	<PIN4>
+		<Pin_Direction>INPUT</Pin_Direction>
+		<Pin_State>PULL_UP</Pin_State>
+	</PIN4>
+	<PIN5>
+		<Pin_Direction>INPUT</Pin_Direction>
+		<Pin_State>HIGH_IMP</Pin_State>
+	</PIN5>
+	<PIN6>
+		<Pin_Direction>INPUT</Pin_Direction>
+		<Pin_State>PULL_UP</Pin_State>
+	</PIN6>
+	<PIN7>
+		<Pin_Direction>INPUT</Pin_Direction>
+		<Pin_State>PULL_UP</Pin_State>
+	</PIN7>
+	<PIN20>
+		<Pin_Direction>OUTPUT</Pin_Direction>
+		<Pin_State>HIGH</Pin_State>
+	</PIN20>
+	<PIN14>
+		<Pin_Direction>INPUT</Pin_Direction>
+		<Pin_State>HIGH_IMP</Pin_State>
+	</PIN14>
+</root>
